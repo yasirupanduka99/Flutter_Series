@@ -1,10 +1,10 @@
-# Flutter_Projects
+# Flutter_Tutorial_Practises
 
-This Flutter tutorial is done by me. I'm followed Code Camp Sri Lanka youtube channel flutter tutorial.
-Flutter Tutorial Playlist Link : https://youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24&si=83WDvPmwINm5masG
+I do this Flutter tutorial. I'm following the Code Camp Sri Lanka YouTube channel flutter tutorial.
+Flutter Tutorial Playlist Link: https://youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24&si=83WDvPmwINm5masG
 
 
 #Tutorial 15 - Asynchronous Programming
 This flutter tutorial 15 is about asynchronous programming
-Synchronous programming means code executed line by line. It means it can do task one after another.
-Asynchronous programming means, it can be done multiple task same time. This is good when system can do task without waiting other task are done.
+Synchronous programming means code executed line by line. It means it can do tasks one after another.
+Asynchronous programming means it can be done multiple tasks at the same time. This is good when the system can do tasks without waiting for other tasks to be done.
