@@ -11,7 +11,7 @@ class _NetworkRequestState extends State<NetworkRequest> {
   //Simulate Network Request
   void getData() async {
     //simulate network request to get user email. this is just simulation of network request just for practise asynchronous.
-    //If I use await then-program stop and wait to complete that function and then go head. this synchronous. so if you use await to asynchronous method, you have to mention async to getData()
+    //If I use await then-program stop and wait to complete that function and then go head. this is synchronous. so if you use await to asynchronous method, you have to mention async to getData()
     await Future.delayed(const Duration(seconds: 3), () {
       print('sampleemail@gmail.com');
     });
