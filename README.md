@@ -11,5 +11,4 @@ Asynchronous programming means it can be done multiple tasks at the same time. T
 
 
 #Tutorial 18 - FutureBuilder
-
 About Mapping dart sample code is in tutorial 18 readme file
